@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lon:home|Door43 (lon)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lon|d43-lon repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lon/archive/master.zip|d43-lon.zip]]
+
+**Recent Changes**
+{{changes>ns = lon}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lon|Ethnologue data]]
+
